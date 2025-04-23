@@ -1,0 +1,224 @@
+{
+    "es": {
+        "it": {
+            // Términos básicos de gaming
+            "gg": "bella partita",
+            "noob": "principiante",
+            "farmear": "farmacoltura",
+            "pwnear": "distruggere",
+            "nerfear": "indebolire",
+            "buffear": "potenziare",
+            "trolear": "trollare",
+            "clipear": "registrare",
+            "lag": "ritardo",
+            "spawnear": "apparire",
+            
+            // Acciones de juego
+            "campear": "campare",
+            "killear": "uccidere",
+            "respawnear": "rinascere",
+            "stunear": "stordire",
+            "banear": "bannare",
+            "reportar": "segnalare",
+            "flamear": "insultare",
+            "doxxear": "doxxare",
+            "hardcorear": "giocare hardcore",
+            "speedrunear": "fare speedrun",
+            
+            // Roles y estilos
+            "tryhard": "provamax",
+            "proplayer": "giocatore pro",
+            "smurf": "giocatore esperto con account falso",
+            "leecher": "parassita",
+            "carry": "portatore",
+            "support": "supporto",
+            "tank": "tank",
+            "healer": "guaritore",
+            "dps": "danno al secondo",
+            "main": "personaggio principale",
+            
+            // Mecánicas de juego
+            "hitbox": "area di impatto",
+            "glitch": "glitch",
+            "bug": "bug",
+            "exploit": "exploit",
+            "meta": "meta",
+            "nerf": "nerf",
+            "buff": "potenziamento",
+            "patch": "patch",
+            "hotfix": "hotfix",
+            "reseteo": "reset",
+            
+            // Jerga competitiva
+            "elo": "punteggio elo",
+            "mmr": "matchmaking rating",
+            "ranked": "competitivo",
+            "casual": "normale",
+            "clutch": "clutch",
+            "throw": "buttare la partita",
+            "feed": "dare kill al nemico",
+            "afk": "lontano dalla tastiera",
+            "gank": "gank",
+            "counter": "contrastare",
+            
+            // Plataformas y comunidades
+            "twitchear": "fare streaming",
+            "donar": "donare",
+            "sub": "abbonato",
+            "mod": "moderatore",
+            "emote": "emote",
+            "copium": "copium",
+            "simp": "simp",
+            "stalkear": "stalkerare",
+            "lurker": "osservatore",
+            "shitpost": "shitpost",
+            
+            // Expresiones emocionales
+            "ragequit": "abbandonare per rabbia",
+            "salty": "salato",
+            "tilted": "tiltato",
+            "hype": "hype",
+            "op": "overpowered",
+            "broken": "rotto",
+            "sus": "sospetto",
+            "based": "basato",
+            "cringe": "imbarazzante",
+            "pog": "fantastico",
+            
+            // Términos técnicos
+            "fps": "fotogrammi al secondo",
+            "ping": "ping",
+            "hitmarker": "indicatore di colpo",
+            "res": "risoluzione",
+            "hitreg": "registrazione colpi",
+            "tickrate": "tickrate",
+            "aimbot": "aimbot",
+            "wallhack": "wallhack",
+            "collab": "collaborazione",
+            "esports": "esports",
+            
+            // Frases completas
+            "¡Vamos equipo!": "Forza squadra!",
+            "Eres bot": "Sei un bot",
+            "Diff de mid": "Differenza mid",
+            "Report al jungla": "Segnala il jungla",
+            "GG WP": "GG bel gioco",
+            "FF": "Arrendiamoci",
+            "Push mid": "Pusha mid",
+            "Backeo": "Torno alla base",
+            "Need vision": "Serve visione",
+            "One shot": "One shot"
+        }
+    },
+    "it": {
+        "es": {
+            // Términos básicos de gaming
+            "bella partita": "gg",
+            "principiante": "noob",
+            "farmacoltura": "farmear",
+            "distruggere": "pwnear",
+            "indebolire": "nerfear",
+            "potenziare": "buffear",
+            "trollare": "trolear",
+            "registrare": "clipear",
+            "ritardo": "lag",
+            "apparire": "spawnear",
+            
+            // Acciones de juego
+            "campare": "campear",
+            "uccidere": "killear",
+            "rinascere": "respawnear",
+            "stordire": "stunear",
+            "bannare": "banear",
+            "segnalare": "reportar",
+            "insultare": "flamear",
+            "doxxare": "doxxear",
+            "giocare hardcore": "hardcorear",
+            "fare speedrun": "speedrunear",
+            
+            // Roles y estilos
+            "provamax": "tryhard",
+            "giocatore pro": "proplayer",
+            "giocatore esperto con account falso": "smurf",
+            "parassita": "leecher",
+            "portatore": "carry",
+            "supporto": "support",
+            "tank": "tank",
+            "guaritore": "healer",
+            "danno al secondo": "dps",
+            "personaggio principale": "main",
+            
+            // Mecánicas de juego
+            "area di impatto": "hitbox",
+            "glitch": "glitch",
+            "bug": "bug",
+            "exploit": "exploit",
+            "meta": "meta",
+            "nerf": "nerf",
+            "potenziamento": "buff",
+            "patch": "patch",
+            "hotfix": "hotfix",
+            "reset": "reseteo",
+            
+            // Jerga competitiva
+            "punteggio elo": "elo",
+            "matchmaking rating": "mmr",
+            "competitivo": "ranked",
+            "normale": "casual",
+            "clutch": "clutch",
+            "buttare la partita": "throw",
+            "dare kill al nemico": "feed",
+            "lontano dalla tastiera": "afk",
+            "gank": "gank",
+            "contrastare": "counter",
+            
+            // Plataformas y comunidades
+            "fare streaming": "twitchear",
+            "donare": "donar",
+            "abbonato": "sub",
+            "moderatore": "mod",
+            "emote": "emote",
+            "copium": "copium",
+            "simp": "simp",
+            "stalkerare": "stalkear",
+            "osservatore": "lurker",
+            "shitpost": "shitpost",
+            
+            // Expresiones emocionales
+            "abbandonare per rabbia": "ragequit",
+            "salato": "salty",
+            "tiltato": "tilted",
+            "hype": "hype",
+            "overpowered": "op",
+            "rotto": "broken",
+            "sospetto": "sus",
+            "basato": "based",
+            "imbarazzante": "cringe",
+            "fantastico": "pog",
+            
+            // Términos técnicos
+            "fotogrammi al secondo": "fps",
+            "ping": "ping",
+            "indicatore di colpo": "hitmarker",
+            "risoluzione": "res",
+            "registrazione colpi": "hitreg",
+            "tickrate": "tickrate",
+            "aimbot": "aimbot",
+            "wallhack": "wallhack",
+            "collaborazione": "collab",
+            "esports": "esports",
+            
+            // Frases completas
+            "Forza squadra!": "¡Vamos equipo!",
+            "Sei un bot": "Eres bot",
+            "Differenza mid": "Diff de mid",
+            "Segnala il jungla": "Report al jungla",
+            "GG bel gioco": "GG WP",
+            "Arrendiamoci": "FF",
+            "Pusha mid": "Push mid",
+            "Torno alla base": "Backeo",
+            "Serve visione": "Need vision",
+            "One shot": "One shot"
+        }
+    }
+}
