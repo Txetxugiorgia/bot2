@@ -39,9 +39,9 @@ translate_client = translate.Client()
 def load_dictionaries():
     dictionaries = {}
     dict_files = {
-        'gaming': 'dictionaries/gaming_es_it.json',
-        'sex': 'dictionaries/sex_es_it.json',
-        'colloquial': 'dictionaries/colloquial_es_it.json'
+        'gaming': 'gaming_es_it.json',
+        'sex': 'sex_es_it.json',
+        'colloquial': 'colloquial_es_it.json'
     }
     
     for category, file_path in dict_files.items():
