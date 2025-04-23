@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mythical-emblem-456316-t9",
+  "private_key_id": "86adb05c806a18246d7f427b96a30255a21a7f04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCFeI8EsI5tBZ2L\nO7pLmyEkTJs173qLnTlfaxU/e1SgbIvz7LMi0jD23j8u8p3XILaetmAZ6h+mNdrB\n0EDLdLfx3pOk2WOmzm8huhIrTC67WbEcnCYXbmroBUFNUEW6UPfIeR4OG84n6XGP\nvj+m3J7OzwEh6KTlmHbtPXSdsDaksEyw4uFI8qTDD87reEcI1Fs+6uc7EnlmTJo7\n1f/26gaHDAhe16cM04471zgoJrEtjlusTTzhnm/Ff04HY5hTSF8MpnYj5ht1FpiD\nVcvrrJM/pGXaFX07P+zmFuRzyDFllvt2GPtTL85Ds/Qj8eebLdjGbu7BHCsjrvmA\nF73TOXw7AgMBAAECggEAD84JXXxMuUM3dyPQ+R/7CjHaFUZw4/RvtUlYYEaJ7F8+\nKVnHkqGCM9F4eOY4458XkO62rYroSYXKDDZNXepJ1+XL5PLrFncOeNdwTFk+lWfX\nDbS92/tyxFvO8klFoHzzAnW5JeGMBXTiwis8nVU1pvajQzEpyZhGyOwEkaGqrtCX\n086b+CN89B1jy6ntN991hND9VYVHBDQVbKEb9DooxexBd+5euoAFJchGv943ERZ3\nkIev52zZz5HYv6si+VfEIrK6uSBAN8gjZvvNbIlB67QRip5a/rWZ1+OvP+SmI9Um\ncgFJVq816sA23KKBng1v+26P0P4ZViwt19S3IW/mNQKBgQC7vOu2feRxLswrG0qv\nRxRaZrdNNp69HdOz+UoV7+5t6U9yk3ruj8CaAZc2UafJGNZJmXQySXe53/xWlfm/\n99by+C7PCtlpSsWjg4KsxbO32wZLJ+26/URHYhTgHcfCXbtGMpt7ix1nTfFkneVA\ncTcgyMPDeRtk6g+d3EX7sDX99wKBgQC2AFaCM7n29gtmKFzvEKaB6nGDqwCscx8z\nuWZOO37JpkNTkNCI5EzohgIrwqNtCzetj4QZv5iPMDCzmoUOIKr0Bdu9VhPTkGrh\nEiBEIfmAbl2jdMkMNu/eRWWE86+DnZRH42PKXgxYes+euClxW/iZDYjBPa5C9WdY\nNXlaWlUy3QKBgAPQzymiXWY/gT7PCzGMzEkaFVeoaImHdaoOwwa3Ha12NHsrrC/1\nFAENTzl3Z2Wa76AHUmlDPP+2IbbQzYatTt0ZVjo3CjwtnN656YoBaqmt9e7JHPfT\n9fNNdwcnE8xLg2bl2GsmZK6Y0vMskmBA7NHpwrDSYVAnwbF/rJx09GP5AoGBAJvR\nrD7q5EMQoe/DjNVMbxH5U1hEFl6ObV9OUs2V2FXyV9/6st8Qftvwp3kpudtI6FFa\n9uFIjOfCfV+3YkUXKOWlAl2WjYDrOuYZK7DJWaBgXSDtgpdHjZPB3Em4jELlrabi\ngnQmkvFJq+maiDi6Yhs/YB75nPFMwz7dAVmezyStAoGAA1rU/XNi1JsSanNegL5N\nINb4fyuDQkA8sR3tSIb78x20rS2kkTbbjpgPsYSlu60AYYNvvTTrk1gKyDwLuU9x\nxFG4rJFth/O7dSVflIumoyRDqS8GdYPAHPbijaNIhRM2PCNy2fuc0hH1+kwJo7hb\nRROE1chXqoRJA/Z34ua6+F8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "txetxu@mythical-emblem-456316-t9.iam.gserviceaccount.com",
+  "client_id": "115262128040768749392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/txetxu%40mythical-emblem-456316-t9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
